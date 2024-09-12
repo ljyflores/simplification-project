@@ -6,6 +6,7 @@ We aim to explore ways to use various training strategies to improve aspects of 
 
 ## TLDRs
 * We use unlikelihood learning and a modified decoding strategy to improve the simplicity/readability of models' outputs (<a href="https://aclanthology.org/2023.findings-emnlp.322">EMNLP 2023 Findings</a>). Check out a demo on <a href="https://huggingface.co/spaces/ljyflores/simplification-model-app">Streamlit</a>!
+  * We add the human evaluation results <a href="https://drive.google.com/drive/folders/1V8bSj949N94V26A3d3opmG7cJJtBGjLO?usp=sharing">here</a>
 * We use variants of loss truncation to remove noisy examples from training, which reduces entity-level hallucination in model's outputs (<a href="https://openreview.net/forum?id=QFGsa3f-plp">EACL 2024</a>)
 
 ## Set-up
